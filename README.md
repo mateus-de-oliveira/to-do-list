@@ -78,7 +78,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### 🙆🏻‍♂️ Autor
 <br>
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55702444?s=460&u=c00929517aaf34051709126e49bac481257745e0&v=4" width="100px;" alt=""/>
-<br>
+
 
 Feito com ❤️ por Mateus de Oliveira 👋🏽 Entre em contato!
 
