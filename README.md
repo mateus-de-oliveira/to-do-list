@@ -38,7 +38,7 @@
 
 
 ---
-### <strong><a id="demonstracao">Pré-requisitos</a></strong>
+### <strong><a id="requisitos">Pré-requisitos</a></strong>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -64,7 +64,7 @@ $ yarn dev
 # O servidor inciará na porta:8080 - acesse http://localhost:8080
 ```
 ---
-### ⚒️ Tecnologias
+### ⚒️ <strong><a id="tecnologias"> Tecnologias</a></strong>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -75,7 +75,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Webpack](https://webpack.js.org/)
 
 ---
-### 🙆🏻‍♂️ Autor
+### 🙆🏻‍♂️ <strong><a id="autor">Autor</a></strong>
 <br>
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55702444?s=460&u=c00929517aaf34051709126e49bac481257745e0&v=4" width="100px;" alt=""/>
 
