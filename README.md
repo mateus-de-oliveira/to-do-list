@@ -1,4 +1,4 @@
-<h1 align="center">DESAFIO TO-DO</h1>
+<h1 align="center">🚀 DESAFIO TO-DO 🚀</h1>
 <p align="center">📝Aplicação para criação e deleção de tarefas juntamente com marcação se foi concluída ou não. ✌🏼</p>
 
 <div align="center">
